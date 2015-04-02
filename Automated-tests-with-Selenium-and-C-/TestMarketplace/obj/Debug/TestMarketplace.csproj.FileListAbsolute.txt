@@ -1,0 +1,44 @@
+c:\users\viorela ioia\documents\visual studio 2013\Projects\Marketplace\TestMarketplace\bin\Debug\TestMarketplace.dll
+c:\users\viorela ioia\documents\visual studio 2013\Projects\Marketplace\TestMarketplace\bin\Debug\TestMarketplace.pdb
+c:\users\viorela ioia\documents\visual studio 2013\Projects\Marketplace\TestMarketplace\bin\Debug\nunit.framework.dll
+c:\users\viorela ioia\documents\visual studio 2013\Projects\Marketplace\TestMarketplace\bin\Debug\nunit.mocks.dll
+c:\users\viorela ioia\documents\visual studio 2013\Projects\Marketplace\TestMarketplace\bin\Debug\WebDriver.dll
+c:\users\viorela ioia\documents\visual studio 2013\Projects\Marketplace\TestMarketplace\bin\Debug\nunit.framework.xml
+c:\users\viorela ioia\documents\visual studio 2013\Projects\Marketplace\TestMarketplace\bin\Debug\WebDriver.pdb
+c:\users\viorela ioia\documents\visual studio 2013\Projects\Marketplace\TestMarketplace\bin\Debug\WebDriver.xml
+c:\users\viorela ioia\documents\visual studio 2013\Projects\Marketplace\TestMarketplace\obj\Debug\TestMarketplace.csprojResolveAssemblyReference.cache
+c:\users\viorela ioia\documents\visual studio 2013\Projects\Marketplace\TestMarketplace\obj\Debug\TestMarketplace.dll
+c:\users\viorela ioia\documents\visual studio 2013\Projects\Marketplace\TestMarketplace\obj\Debug\TestMarketplace.pdb
+C:\Users\Viorela Ioia\Documents\Visual Studio 2013\Projects\Marketplace\TestMarketplace\bin\Debug\Marketplace.dll
+C:\Users\Viorela Ioia\Documents\Visual Studio 2013\Projects\Marketplace\TestMarketplace\bin\Debug\Marketplace.pdb
+C:\Users\Viorela Ioia\documents\visual studio 2013\Projects\Marketplace\TestMarketplace\bin\Debug\WebDriver.Support.dll
+C:\Users\Viorela Ioia\documents\visual studio 2013\Projects\Marketplace\TestMarketplace\bin\Debug\WebDriver.Support.pdb
+C:\Users\Viorela Ioia\documents\visual studio 2013\Projects\Marketplace\TestMarketplace\bin\Debug\WebDriver.Support.xml
+d:\Iulian\Automation\Viorela\Marketplace\TestMarketplace\bin\Debug\TestMarketplace.dll
+d:\Iulian\Automation\Viorela\Marketplace\TestMarketplace\bin\Debug\TestMarketplace.pdb
+d:\Iulian\Automation\Viorela\Marketplace\TestMarketplace\bin\Debug\Marketplace.dll
+d:\Iulian\Automation\Viorela\Marketplace\TestMarketplace\bin\Debug\nunit.framework.dll
+d:\Iulian\Automation\Viorela\Marketplace\TestMarketplace\bin\Debug\nunit.mocks.dll
+d:\Iulian\Automation\Viorela\Marketplace\TestMarketplace\bin\Debug\WebDriver.dll
+d:\Iulian\Automation\Viorela\Marketplace\TestMarketplace\bin\Debug\WebDriver.Support.dll
+d:\Iulian\Automation\Viorela\Marketplace\TestMarketplace\bin\Debug\Marketplace.pdb
+d:\Iulian\Automation\Viorela\Marketplace\TestMarketplace\bin\Debug\nunit.framework.xml
+d:\Iulian\Automation\Viorela\Marketplace\TestMarketplace\obj\Debug\TestMarketplace.csprojResolveAssemblyReference.cache
+d:\Iulian\Automation\Viorela\Marketplace\TestMarketplace\obj\Debug\TestMarketplace.dll
+d:\Iulian\Automation\Viorela\Marketplace\TestMarketplace\obj\Debug\TestMarketplace.pdb
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\bin\Debug\TestMarketplace.dll
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\bin\Debug\TestMarketplace.pdb
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\bin\Debug\Marketplace.dll
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\bin\Debug\nunit.framework.dll
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\bin\Debug\nunit.mocks.dll
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\bin\Debug\WebDriver.dll
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\bin\Debug\WebDriver.Support.dll
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\bin\Debug\Marketplace.pdb
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\bin\Debug\nunit.framework.xml
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\bin\Debug\WebDriver.pdb
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\bin\Debug\WebDriver.xml
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\bin\Debug\WebDriver.Support.pdb
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\bin\Debug\WebDriver.Support.xml
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\obj\Debug\TestMarketplace.csprojResolveAssemblyReference.cache
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\obj\Debug\TestMarketplace.dll
+C:\Users\Viorela Ioia\Documents\Marketplace\TestMarketplace\obj\Debug\TestMarketplace.pdb

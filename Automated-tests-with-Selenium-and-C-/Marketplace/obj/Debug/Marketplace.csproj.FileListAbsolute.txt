@@ -1,0 +1,11 @@
+C:\Users\Viorela Ioia\Documents\Marketplace\Marketplace\bin\Debug\Marketplace.dll
+C:\Users\Viorela Ioia\Documents\Marketplace\Marketplace\bin\Debug\Marketplace.pdb
+C:\Users\Viorela Ioia\Documents\Marketplace\Marketplace\bin\Debug\WebDriver.dll
+C:\Users\Viorela Ioia\Documents\Marketplace\Marketplace\bin\Debug\WebDriver.Support.dll
+C:\Users\Viorela Ioia\Documents\Marketplace\Marketplace\bin\Debug\WebDriver.pdb
+C:\Users\Viorela Ioia\Documents\Marketplace\Marketplace\bin\Debug\WebDriver.xml
+C:\Users\Viorela Ioia\Documents\Marketplace\Marketplace\bin\Debug\WebDriver.Support.pdb
+C:\Users\Viorela Ioia\Documents\Marketplace\Marketplace\bin\Debug\WebDriver.Support.xml
+C:\Users\Viorela Ioia\Documents\Marketplace\Marketplace\obj\Debug\Marketplace.csprojResolveAssemblyReference.cache
+C:\Users\Viorela Ioia\Documents\Marketplace\Marketplace\obj\Debug\Marketplace.dll
+C:\Users\Viorela Ioia\Documents\Marketplace\Marketplace\obj\Debug\Marketplace.pdb
